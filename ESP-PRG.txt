@@ -1,0 +1,6 @@
+python3 -m venv venv
+. venv/bin/activate
+esphome dashboard config/
+
+RTPo/sHDw8nQ7y/cM7hHhrL2hBk/VLNYrpJcOvAVa7c=
+fjRUbk1DyckilKyuGsqfoEE0GcOq25YqIGyg90XqEys=
